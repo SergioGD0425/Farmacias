@@ -1,0 +1,14 @@
+{
+  "name": "actividadfarmacias",
+  "version": "1.0.0",
+  "description": "Actividad evaluable de la unidad 4",
+  "main": "./js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
+}
